@@ -67,7 +67,7 @@ export function Navbar() {
             aria-label="GitHub"
             onPress={() => {
               window.open(
-                "https://github.com/maximjsx/template",
+                "https://github.com/balgariya/listractor",
                 "_blank",
                 "noopener,noreferrer"
               );
